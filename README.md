@@ -49,7 +49,7 @@ On this course you will be taught a wide range of skills, here are a few topics 
 
 
 ## Tutorials
-The tutorials, found [here](https://www.youtube.com/playlist?list=PLOLrQ9Pn6caxY4Q1U9RjO1bulQp5NDYS_) on our YouTube channel take you through the steps of developing an e-commerce application with Python Django, predominately deploying the Django template system.
+The tutorials, found [here](https://youtube.com/playlist?list=PLOLrQ9Pn6cawFgvNbPgjJcK7Zv6Lx8rWF) on our YouTube channel take you through the steps of developing an e-commerce application with Python Django, predominately deploying the Django template system.
 
 ## Prerequisites
 * Install Python onto your PC/Laptop
