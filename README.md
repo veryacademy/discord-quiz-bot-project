@@ -70,9 +70,9 @@ This course tries to cater for many types of learners:
 <summary><b>Part-1 Building a Discord Quiz Bot with Python Django and Heroku</b>
 </summary>
 <br>
-This first tutorial is most definitely aimed at Django beginners where we cover the basics of developing Django views, URLS, models and get started with testing our application. By the end of this tutorial you will have a working product catalogue which will form the basis of our e-commerce application.
+Add a quiz bot to your Discord channel. In this tutorial we learn the basics of building and deploying a quiz bot using Python Django and deploying to Heroku. We go through the basic steps of first creating a new Discord Bot then move into building a Django API with the Django Rest Framework. We build the logic for the bot then deploy the app to Heroku.
 <br><br>
-Link to Tutorial https://youtu.be/UqSJCVePEWU
+Link to Tutorial https://youtu.be/jq6IoD7EyWY
 </details>
 
 ## Community Driven Content
