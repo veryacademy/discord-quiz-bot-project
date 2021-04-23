@@ -75,6 +75,15 @@ Add a quiz bot to your Discord channel. In this tutorial we learn the basics of 
 Link to Tutorial https://youtu.be/jq6IoD7EyWY
 </details>
 
+<details>
+<summary><b>Part-2 Building a Quiz Leaderboard</b>
+</summary>
+<br>
+Add a quiz bot to your Discord channel. After the first tutorial where we learnt the basics of building and deploying a quiz bot using Python Django and deploying to Heroku. In this tutorial we go through the basic steps of building a quiz leaderboard. Each question have points attached, when the user answers correctly the points and their name are added to a database. We further develop our Django API from the first tutorial, build the logic for the bot then deploy the app to Heroku.
+<br><br>
+Link to Tutorial 
+</details>
+
 ## Community Driven Content
 I activity try and promote feedback to shape courses to your needs and wishes. Find here is a list of features requested by community. If you would like to request any other feature not listed here - please visit our YouTube channel and make a comment.
 
